@@ -12,7 +12,7 @@ Hemos hecho este cambio para ver el control de versiones de git
 Esperemos que el ciclo nos salga de la mejor manera 
 Recuerda los ciclos
 git add .
-git commit ""
+git commit -m "El guion m es para agregar el mensaje cualesquiera como aqui (es solo un ejemplo)"
 git show (es para ver las versiones y sus notas o llamadas que escribimos en el commit antes de guardarlo)
 git log NombreArchivo.txt etc
 git diff (compara las versiones)
