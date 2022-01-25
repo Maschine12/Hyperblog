@@ -17,4 +17,4 @@ git show (es para ver las versiones y sus notas o llamadas que escribimos en el 
 git log NombreArchivo.txt etc
 git diff (compara las versiones)
 
-historia de su vida 
+historia de su vida , ahora es estudiante
