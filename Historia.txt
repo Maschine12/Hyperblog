@@ -14,5 +14,6 @@ Recuerda los ciclos
 git add .
 git commit ""
 git show (es para ver las versiones y sus notas o llamadas que escribimos en el commit antes de guardarlo)
+git log NombreArchivo.txt etc
 git diff (compara las versiones)
 
