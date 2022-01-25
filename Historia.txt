@@ -7,3 +7,12 @@ haha por ahora...
 En camara es mas alto pero no es mas alto 
 
 Hoy es estudiante de la unsch
+
+Hemos hecho este cambio para ver el control de versiones de git
+Esperemos que el ciclo nos salga de la mejor manera 
+Recuerda los ciclos
+git add .
+git commit ""
+git show (es para ver las versiones y sus notas o llamadas que escribimos en el commit antes de guardarlo)
+git diff (compara las versiones)
+
