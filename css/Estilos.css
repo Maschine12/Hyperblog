@@ -41,10 +41,16 @@ body
 #post
 {
     padding: 1em;
+
 }
 #container h2{
     text-align: center;
     color:#06B9AC;
     background-color: rgba(121, 172, 115, 0.849);
-
+}  
+#oferta{
+    color: green;
+    text-align:right;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
