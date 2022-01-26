@@ -41,4 +41,7 @@ body
 #post
 {
     padding: 1em;
-}  
+}
+#container h2{
+    color: red;
+}
