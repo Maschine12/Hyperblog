@@ -42,3 +42,9 @@ body
 {
     padding: 1em;
 }  
+#oferta{
+    color: green;
+    text-align:right;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
